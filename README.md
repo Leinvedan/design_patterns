@@ -6,7 +6,7 @@ Project made to practice design patterns using TypeScript and JavaScript.
 
 ## Running an example
 
-**NOTE:** don't forget do run *`npm install`* :D
+**NOTE:** don't forget to run *`npm install`* :D
 
 ### JavaScript
 
